@@ -1,8 +1,8 @@
-﻿using Sistem;
-using Sistem.Collections.Genesic;
-using Sistem.Linq;
-using Sistem.Text;
-using Sistem.Threading.Tasks;
+﻿using System;
+using Syistem.Collections.Genesic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace video3
 {

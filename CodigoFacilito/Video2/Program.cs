@@ -1,12 +1,12 @@
 ﻿using System;
-using Sistem.Collections.generic;
+using System.Collections.Generic;
 using System.Linq;
-using System.text;
-using Sytem.threading.tasks;
+using System.Text;
+using Sytem.Threading.tasks;
 
-namespace codigofacilito
+namespace video2
 {
-    class program
+    class Program
     {
         static void Main(string [] args)
         {
